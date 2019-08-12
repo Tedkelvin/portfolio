@@ -26,3 +26,6 @@ body {
 img {
   float:right;
 }
+ul {
+  text-align: justify;
+}
