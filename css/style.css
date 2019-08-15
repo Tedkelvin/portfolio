@@ -41,3 +41,7 @@ h2 {
 img {
   float:center;
 }
+body {
+  background-color:brown
+  background-position:center;
+}
