@@ -34,7 +34,10 @@ ul {
   color: blue;
 }
 img {
-  float: left;
+  float:none;
 h2 {
   text-align: right;
+}
+img {
+  float:center;
 }
