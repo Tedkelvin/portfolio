@@ -21,7 +21,8 @@ p {
   color: black;
 }
 body {
-  background-color: brown;
+  background-color:violet;
+  background-position: center;
 }
 img {
   float:right;
